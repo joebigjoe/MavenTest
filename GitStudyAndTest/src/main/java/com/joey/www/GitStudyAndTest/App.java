@@ -18,5 +18,6 @@ public class App
         System.out.println("sixth checkin aaaa!");
         System.out.println("sixth checkin bbbb!");
         System.out.println("sixth checkin cccc!");
+        System.out.println("sixth checkin ddddd!");
     }
 }
