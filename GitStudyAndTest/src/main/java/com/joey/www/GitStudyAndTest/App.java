@@ -13,5 +13,7 @@ public class App
         System.out.println("second checkin!");
         System.out.println("third checkin!");
         System.out.println("fourth checkin!");
+        System.out.println("fifth checkin!");
+        System.out.println("sixth checkin!");
     }
 }
